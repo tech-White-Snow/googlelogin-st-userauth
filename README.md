@@ -5,3 +5,5 @@ cd client/npm start
 Backend: 
 localhost:3000
 npm start
+
+MongoDB version: 4.4
